@@ -45,8 +45,8 @@ In this part of the project, the focus is on:
 - There have been significant changes in the rank order between the two years.Oracle is expected to drop out of the top 10 next year.
 - PostgreSQL is expected to become the most popular database system. This could be attributed to its open-source nature and ease of use compared to some other databases.
 - The Python language, along with languages associated with full-stack development, is holding the top position in the current year, and this trend is expected to continue in the near future. However, some of the most popular back-end languages, such as PHP,  and C++ are anticipated to drop out of the top 10.
--Python is gaining more prominence, moving from the 5th to the 3rd position. This may be attributed to its widespread usage and simplicity.
--Full-stack languages (both front and back end) are at the top, indicating a strong necessity for their applications.
+- Python is gaining more prominence, moving from the 5th to the 3rd position. This may be attributed to its widespread usage and simplicity.
+- Full-stack languages (both front and back end) are at the top, indicating a strong necessity for their applications.
 
 
 ## Files
