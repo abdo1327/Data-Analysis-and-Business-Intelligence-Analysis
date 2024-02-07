@@ -19,7 +19,7 @@ To run the dashboard locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Python script using `python app.py`.
+3. Run the Python script using `python Create Dashboard with Plotly and Dash.py`.
 4. Access the dashboard in your web browser at the specified URL (typically http://127.0.0.1:8050/).
 
 ## Usage
